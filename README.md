@@ -6,6 +6,7 @@ UNIX time in short is how much time elapsed since 1st January 1970 (UTC).
 Current unix time: https://www.unixtimestamp.com/ 
 
 # Requirements
+* Java 19
 * PlaceholderAPI (Used dependency is v2.11.5)
 * Bukkit based server (Feel free to use forks - Spigot, Paper, etc.)
 
