@@ -1,4 +1,4 @@
-# mUnix
+# Expansion-mUnix
 Very simple external expansion for PlaceholderAPI, which allows parsing unix time (millis, secs, mins).
 
 UNIX time in short is how much time elapsed since 1st January 1970 (UTC).
